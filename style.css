@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+}
+
+p,
+h1 {
+  text-align: center;
+  color: greenyellow;
+}
